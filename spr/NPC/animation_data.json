@@ -1,0 +1,39 @@
+{
+  "source": "C:\\Users\\User\\AppData\\Local\\Temp\\gradio\\b22ee7b5faa532e4c3eba06887c82189d02f93e968003187cf0ff002ab198032\\pestañear,_respirar,_esperar_202606081206.mp4",
+  "animation_name": "pestañear,_respirar,_esperar_202606081206",
+  "engine": "2d_rpg",
+  "frame_count": 48,
+  "fps": 24,
+  "source_size": {
+    "w": 720,
+    "h": 1280
+  },
+  "sprite_size": {
+    "w": 256,
+    "h": 256
+  },
+  "trimmed": true,
+  "trim_rect": {
+    "x": 56,
+    "y": 0,
+    "w": 144,
+    "h": 256
+  },
+  "pivot": {
+    "x": 360,
+    "y": 1280
+  },
+  "frame_duration_ms": 41.7,
+  "params": {
+    "method": "HSV",
+    "channel": 0,
+    "margin": 50,
+    "kernel": 5,
+    "dilate": 1,
+    "blur": 5,
+    "frame_step": 4,
+    "dedup": true,
+    "post_process": false,
+    "trim": true
+  }
+}
